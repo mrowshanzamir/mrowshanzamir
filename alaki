@@ -1,0 +1,4 @@
+n=int(input("enter a number"))
+n=n+10
+m=n*2
+print(m)
